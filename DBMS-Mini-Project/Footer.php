@@ -12,5 +12,5 @@
         <li><a href="Contact.php">Contact Us</a></li>
     </ul>
 
-    Made by Abhishek Thakur &copy; Abhishek_Thakur</div> 
+    Made by Bhoomika R and B V Keerthana &copy; </div> 
 <!-- end of footer -->
